@@ -10,6 +10,33 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" />
     <!-- styl css -->
     <link rel="stylesheet" href="<?php echo URLROOT; ?>/css/style.css ?>">
-
+    
 </head>
 <body>
+
+    <header>
+        <div class="container">
+        <nav class="flex">
+  <div class="left">
+
+    <div class="branding">
+      <img src="" alt="logo">
+    </div>
+    <div>
+      <a href="#">HOME</a>
+      <a href="#">ABOUT</a>
+      <a href="">SERVICES</a>
+      <a href="">PAGES</a>
+    </div>
+  </div>
+  <div class="right">
+    <button>Contact</button>
+  </div>
+
+</nav>
+
+        </div>
+
+
+    </header>
+

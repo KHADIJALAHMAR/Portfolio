@@ -1,6 +1,9 @@
+@import'utilities.css';
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing:antialiased;
 }
 /* general */
 :root{
@@ -9,6 +12,19 @@
     --pure:#ffff;
     --ternary:#898989;
     --light:#F2F2F2;
-    
 
 }
+header{
+    background: var(--dark) ;
+}
+.container{
+    max-width: 1125px;
+    padding:0 15px;
+    margin: 0 auto;
+}
+header nav .left a{
+    color: var(--pure);
+    text-decoration: none;
+
+}
+
