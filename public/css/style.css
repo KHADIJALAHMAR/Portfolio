@@ -25,6 +25,21 @@ header{
 header nav .left a{
     color: var(--pure);
     text-decoration: none;
+    margin-right: 2rem;
+    text-transform:uppercase;
+    transition: all .3s ease;
 
 }
+header nav .left a:hover{
+    color :var(--primary);
+}
+
+header nav {
+    padding: 2rem 0 ;
+}
+header nav .branding{
+    margin-right: 3rem;
+
+} 
+
 

@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>portfolio</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" />
     <!-- styl css -->
     <link rel="stylesheet" href="<?php echo URLROOT; ?>/css/style.css ?>">
     
@@ -16,8 +15,8 @@
 
     <header>
         <div class="container">
-        <nav class="flex">
-  <div class="left">
+        <nav class="flex items-center justify-between ">
+  <div class="left flex items-center ">
 
     <div class="branding">
       <img src="" alt="logo">
@@ -30,7 +29,7 @@
     </div>
   </div>
   <div class="right">
-    <button>Contact</button>
+    <button class="btn btn-primary">Contact</button>
   </div>
 
 </nav>
