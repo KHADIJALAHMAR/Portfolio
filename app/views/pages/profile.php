@@ -14,5 +14,10 @@
             <h3>Hello ! I'm Lahmar Khadija</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem ullam, optio placeat accusamus illum cupiditate, quis ducimus iure deserunt nulla esse nesciunt, culpa in molestiae blanditiis eaque voluptatem eveniet facere.</p>
         </div>
+        <div>
+            <a href="#"> <img src="" alt="">faceebok</a>
+            <a href="#"><img src="" alt="">instagram</a>
+            <a href="#"> <img src="" alt="">twitter</a>
+        </div>
     </div>
 </section>
