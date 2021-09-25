@@ -15,27 +15,39 @@
 
     <header>
         <div class="container">
-        <nav class="flex items-center justify-between ">
-  <div class="left flex items-center ">
+            <nav class="flex items-center justify-between ">
+                <div class="left flex items-center ">
+                    <div class="branding">
+                        <img src="" alt="logo">
+                    </div>
+                    <div>
+                            <a href="#">HOME</a>
+                            <a href="#">ABOUT</a>
+                            <a href="">SERVICES</a>
+                            <a href="">PAGES</a>
+                    </div>
+                </div>
+                    <div class="right">
+                        <button class="btn btn-primary">Contact</button>
+                    </div>
+            </nav>
+            <div class="hero flex items-center ">
+                <div class="left flex-1 flex justify-center  ">
+                    <img  class="div-child2" src="<?php echo URLROOT; ?>/assets/img/profile.jpg" alt="imgheader" height="400">
+                </div>
 
-    <div class="branding">
-      <img src="" alt="logo">
-    </div>
-    <div>
-      <a href="#">HOME</a>
-      <a href="#">ABOUT</a>
-      <a href="">SERVICES</a>
-      <a href="">PAGES</a>
-    </div>
-  </div>
-  <div class="right">
-    <button class="btn btn-primary">Contact</button>
-  </div>
-
-</nav>
+                <div class="right flex-1">
+                    <h6>Lahmar Khadija</h6>
+                    <h1>I'm Creative <span>developer</span></h1>
+                    <div>
+                        <button class="btn btn-secandary">DOWNLOAD CV </button>
+                    </div>
+                </div>
+            </div>
 
         </div>
 
 
     </header>
+    
 

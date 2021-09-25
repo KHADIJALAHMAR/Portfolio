@@ -7,6 +7,9 @@
 .justify-between{
     justify-content: space-between;
 }
+.wrap{
+    flex-wrap: wrap;
+}
 .btn{
     padding: 0.8rem 3rem;
     font-size: 1rem;
@@ -25,4 +28,20 @@ background: transparent;
 border-color: var(--primary);
 color:var(--primary);
 }
+.btn-secandary{
+    background: transparent;
+    color: var(--secondary);
+    border-color: var(--primary);
+}
+.btn-secandary:hover{
+    background: var(--primary);
+    color:var(--dark);
+}
+.flex-1{
+    flex:1;
+}
+.justify-center{
+    justify-content: center;
+}
+
 
