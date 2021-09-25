@@ -33,9 +33,8 @@
             </nav>
             <div class="hero flex items-center ">
                 <div class="left flex-1 flex justify-center  ">
-                    <img  class="div-child2" src="<?php echo URLROOT; ?>/assets/img/profile.jpg" alt="imgheader" height="400">
+                    <img   src="<?php echo URLROOT; ?>/assets/img/profile.jpg" alt="imgheader" height="400">
                 </div>
-
                 <div class="right flex-1">
                     <h6>Lahmar Khadija</h6>
                     <h1>I'm Creative <span>developer</span></h1>
@@ -44,10 +43,7 @@
                     </div>
                 </div>
             </div>
-
         </div>
-
-
     </header>
     
 
