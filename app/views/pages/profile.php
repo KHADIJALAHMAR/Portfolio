@@ -21,3 +21,9 @@
         </div>
     </div>
 </section>
+<!-- add section  -->
+<section class="freelancer">
+    <h1>I Am Available for Freelancer</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+    <button class="btn btn-primary">Downloud CV</button>
+</section>
