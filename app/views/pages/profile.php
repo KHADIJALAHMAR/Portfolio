@@ -3,7 +3,7 @@
 
 
 
-<!-- add section  about-->
+<!-- add section  about    -->
 <section class="about">
     <div class="flex items-center j">
         <div class="flex-1">
