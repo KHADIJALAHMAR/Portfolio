@@ -12,7 +12,6 @@
     --pure:#ffff;
     --ternary:#898989;
     --light:#F2F2F2;
-
 }
 header{
     background: var(--dark) ;
@@ -91,7 +90,7 @@ section.about h3 {
 }
 section.about p{
     color: var(--ternary);
-    line-height: 1.8 rem;
+    line-height: 1.8rem;
     margin-bottom: 1rem;
 }
 section.about .social {
@@ -117,6 +116,26 @@ section.about .social a img{
     height: 100%;
     padding: 0.5rem;
 }
+/* sectin freelancer////////////////////////////// */
+section.freelancer {
+    text-align: center;
+    color: var(--pure);
+    /* opacity background */
+    background-image:  url(../assets/img/kk.jfif);
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 0, 100% 100%,70% 80%,0 100%);
+    padding-bottom: 14rem;
+}
+section.freelancer h1{
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-weight: 400;
+}
+section.freelancer p{
+    margin-bottom: 1rem;
+    line-height: 1.8rem;
+}
+
 
 
 
