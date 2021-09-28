@@ -116,7 +116,7 @@ section.about .social a img{
     height: 100%;
     padding: 0.5rem;
 }
-/* sectin freelancer////////////////////////////// */
+/* section freelancer////////////////////////////// */
 section.freelancer {
     text-align: center;
     color: var(--pure);
@@ -134,6 +134,10 @@ section.freelancer h1{
 section.freelancer p{
     margin-bottom: 1rem;
     line-height: 1.8rem;
+}
+/* sec */
+section.work{
+    background: var(--light);
 }
 
 

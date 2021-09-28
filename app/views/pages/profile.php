@@ -5,7 +5,7 @@
 
 <!-- add section  about    -->
 <section class="about">
-    <div class="flex items-center j">
+    <div class="flex items-center ">
         <div class="flex-1">
             <img   src="<?php echo URLROOT; ?>/assets/img/img-PRESENTATION.jpg" alt="" height="300" >
         </div>
@@ -21,9 +21,33 @@
         </div>
     </div>
 </section>
-<!-- add section  -->
+<!-- add section Freelacer -->
 <section class="freelancer">
     <h1>I Am Available for Freelancer</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
     <button class="btn btn-primary">Downloud CV</button>
 </section>
+<!-- add section Work -->
+<section class="work">
+    <div class="container">
+            <h1 class="section-heading">Our Works</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    </div>
+    <div class="card-wrapper">
+
+    <div class="card">
+        <img src="<?php echo URLROOT; ?>/assets/img/pharmacie.jpg" alt="">
+    </div>
+
+
+    <div class="card">
+        <img src="<?php echo URLROOT; ?>/assets/img/madlin.jpg" alt="">
+    </div>
+
+    <div class="card">
+        <img src="<?php echo URLROOT; ?>/assets/img/cosmétique.webp" alt="">
+    </div>
+</section>
+
+
+</div>
