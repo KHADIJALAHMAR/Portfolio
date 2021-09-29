@@ -62,6 +62,42 @@
         </div>
     </div>
 </section>
+<!-- add section competence -->
+<section class="competence">
+<div>
+    <h1 class="mb-5 mt-5"> Linear Progress Bar</h1>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="progress-title">HTML</h3>
+            <div class="progress">
+                <div class="progress-bar" style="width:65%; background:#97c513;">
+                    <div class="progress-value">65%</div>
+                </div>
+            </div>
+            <h3 class="progress-title">CSS</h3>
+            <div class="progress">
+                <div class="progress-bar" style="width:100%; background:#f2545b;">
+                    <div class="progress-value">100%</div>
+                </div>
+            </div>
+            <h3 class="progress-title">JAVASCRIPT</h3>
+            <div class="progress">
+                <div class="progress-bar" style="width:75%; background:#4286f4;">
+                    <div class="progress-value">75%</div>
+                </div>
+            </div>
+            <h3 class="progress-title">PHP</h3>
+            <div class="progress">
+                <div class="progress-bar" style="width:30%; background:#21ff63;">
+                    <div class="progress-value">30%</div>
+                </div>
+            </div>
+        </div>
+    </div>  
+</div>
+</section>
 
 
 </div>
