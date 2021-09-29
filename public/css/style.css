@@ -235,7 +235,43 @@ section.competence{
     clip-path: polygon(0 0, 100% 0, 100% 100%,70% 89%,0 100%);
 }
 /* add section Contact  /////////////////////////////////*/
+section.contact .container{
+    text-align:center ;
+}
 
+section.contact .container h1{
+    margin-bottom: 1rem ;
+}
+section.contact .container span{
+    color: var(--primary);
+}
+section.contact .container p{
+    color: var(--ternary);
+    margin-bottom: 3rem;
+}
+section.contact .card img{
+    height: 50px;
+    width: 40px;
+}
+section.contact .card-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    grid-gap: 3rem;
+}
+section.contact .card-wrapper .card {
+    text-align: center;
+}
+section.contact .card-wrapper .card img {
+    margin-bottom: 2rem;
+}
+section.contact .card-wrapper .card h1{
+    margin-bottom:1rem;
+}
+section.contact .card-wrapper .card h6{
+    color: var(--ternary);
+    font-size: 1rem ;
+
+}
 
 
 
