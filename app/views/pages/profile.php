@@ -29,23 +29,24 @@
 </section>
 <!-- add section Work -->
 <section class="work">
-    <div class="container">
-            <h1 class="section-heading">Our Works</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <div class="container  ">
+            <h1 class="section-heading">Our <span>Works</span></h1>
+            <p class="section-heading" >Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
     <div class="card-wrapper">
 
-    <div class="card">
-        <img src="<?php echo URLROOT; ?>/assets/img/pharmacie.jpg" alt="">
-    </div>
+        <div class="card">
+            <img src="<?php echo URLROOT; ?>/assets/img/pharmacie.jpg" alt="">
+        </div>
 
 
-    <div class="card">
-        <img src="<?php echo URLROOT; ?>/assets/img/madlin.jpg" alt="">
-    </div>
+        <div class="card">
+            <img src="<?php echo URLROOT; ?>/assets/img/madlin.jpg" alt="">
+        </div>
 
-    <div class="card">
-        <img src="<?php echo URLROOT; ?>/assets/img/cosmétique.webp" alt="">
+        <div class="card">
+            <img src="<?php echo URLROOT; ?>/assets/img/cosmétique.webp" alt="">
+        </div>
     </div>
 </section>
 

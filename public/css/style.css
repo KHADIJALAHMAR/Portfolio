@@ -135,9 +135,16 @@ section.freelancer p{
     margin-bottom: 1rem;
     line-height: 1.8rem;
 }
-/* sec */
+/* secction work*/
 section.work{
     background: var(--light);
+}
+section.work span{
+    color: var(--primary);
+}
+.section-heading{
+    margin-bottom: 1rem;
+    text-align: center;
 }
 
 
