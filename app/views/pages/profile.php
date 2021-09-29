@@ -65,7 +65,7 @@
 <!-- add section competence -->
 <section class="competence">
 <div>
-    <h1 class="mb-5 mt-5"> Linear Progress Bar</h1>
+    <h1 class="mb-5 mt-5"> COMPETENCE</h1>
 </div>
 <div class="container">
     <div class="row">

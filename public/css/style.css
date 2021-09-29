@@ -185,7 +185,7 @@ section.work .card-wrapper img{
 .progress-title {
     font-size: 16px;
     font-weight: 700;
-    color: #333;
+    color:var(--light);
     margin: 0 0 20px
 }
 
