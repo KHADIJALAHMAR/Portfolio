@@ -98,6 +98,29 @@
     </div>  
 </div>
 </section>
+<!-- add section Contact -->
+<section class="contact">
+    <div class="container">
+        <h1> Contact<span> Us</span></h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+    </div>
+    <div class="card-wrapper">
+        <div class="card">
+            <img src="<?php echo  URLROOT; ?>/assets/icons/cellphone.svg" alt="svg-phone">
+            <h1>Call Us On</h1>
+            <h6>+212 39 42 29 39</h6>
+        </div>
+        <div class="card">
+            <img src="<?php echo  URLROOT; ?>/assets/icons/email.svg" alt="lsvg-email">
+            <h1>Email Us At </h1>
+            <h6>khadijalahmar8@gmail.com</h6>
+        </div>
+        <div class="card">
+            <img src="<?php echo  URLROOT; ?>/assets/icons/map.svg" alt="svg-map">
+            <h1>Visit Office </h1>
+            <h6> Youssoufia QU Salam Rue Moulay ibrahim</h6>
+        </div>
 
-
+    </div>
+</section>
 </div>

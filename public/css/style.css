@@ -226,14 +226,16 @@ section.work .card-wrapper img{
     z-index: 1;
     transform: rotate(35deg)
 }
-
  .competence h1 {
     text-align: center
 }
 
 section.competence{
-    background: linear-gradient(to right, #3DCFD3, #fffcdc)
+    background: linear-gradient(to right, #3DCFD3, #fffcdc);
+    clip-path: polygon(0 0, 100% 0, 100% 100%,70% 89%,0 100%);
 }
+/* add section Contact  /////////////////////////////////*/
+
 
 
 
