@@ -272,6 +272,14 @@ section.contact .card-wrapper .card h6{
     font-size: 1rem ;
 
 }
+section.contact .input-wrap{
+    display: grid;
+    grid-template-columns: repeat(2 ,1fr);
+}
+section.contact .input-wrap-2{
+    display: flex;
+    flex-direction: column;
+}
 
 
 
