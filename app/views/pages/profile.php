@@ -33,18 +33,31 @@
             <h1 class="section-heading">Our <span>Works</span></h1>
             <p class="section-heading" >Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
-    <div class="card-wrapper">
+    <div class="card-wrapper flex ">
 
         <div class="card">
-            <img src="<?php echo URLROOT; ?>/assets/img/pharmacie.jpg" alt="">
+            <div class="overlay">
+                <span>Category</span>
+                <a href="#">web develepment</a>
+            </div>
+            <img src="<?php echo URLROOT; ?>/assets/img/pharma.webp" alt="" >
         </div>
 
 
         <div class="card">
+        <div class="overlay">
+                <span>Category</span>
+                <a href="#">web develepment</a>
+            </div>
             <img src="<?php echo URLROOT; ?>/assets/img/madlin.jpg" alt="">
         </div>
 
         <div class="card">
+
+        <div class="overlay">
+                <span>Category</span>
+                <a href="#">web develepment</a>
+            </div>
             <img src="<?php echo URLROOT; ?>/assets/img/cosmétique.webp" alt="">
         </div>
     </div>

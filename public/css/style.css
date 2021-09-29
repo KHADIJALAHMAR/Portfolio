@@ -135,7 +135,7 @@ section.freelancer p{
     margin-bottom: 1rem;
     line-height: 1.8rem;
 }
-/* secction work*/
+/* secction work///////////////////////*/
 section.work{
     background: var(--light);
 }
@@ -145,6 +145,41 @@ section.work span{
 .section-heading{
     margin-bottom: 1rem;
     text-align: center;
+}
+section.work .card-wrapper{
+    display: grid;
+    grid-template-columns:repeat(3,1fr ) ;
+    grid-gap: 2rem;
+}
+section.work .card-wrapper .card{
+    position: relative;
+}
+section.work .card-wrapper .card .overlay {
+    position: absolute ;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 90%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+section.work .card-wrapper .card .overlay a {
+    text-decoration: none;
+    color: var(--pure);
+}
+section.work .card-wrapper .card:hover .overlay{
+ background: var(--ternary);
+ opacity: 1;
+ transition: all .3s ease;
+}
+
+section.work .card-wrapper img{
+    width: 90%;
+    height: 90%;
 }
 
 
