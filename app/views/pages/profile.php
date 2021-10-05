@@ -134,4 +134,19 @@
             <button class="btn btn-primary">SEND MESSAGE</button>
         </form>
 </section>
+<!-- add section footer  -->
+<section class="footer">
+    <img src="" alt="">
+    <h1>LOGO</h1>
+    <div class="social">
+                    <a href="#"> <img src="<?php echo URLROOT ;?>/assets/icons/logo-instagram.png" alt=""></a>
+                    <a href="#"><img src="<?php echo URLROOT ;?>/assets/icons/logo-facebook.png" alt=""></a>
+                    <a href="#"> <img src="<?php echo URLROOT ;?>/assets/icons/logo-twitter.png" alt=""></a>
+        </div>
+        <div class="copyright">
+        <p>copyright © 2020</p>
+        </div>
+        
+
+</section>
 </div>

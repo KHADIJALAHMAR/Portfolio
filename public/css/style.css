@@ -29,18 +29,15 @@ header nav .left a{
     margin-right: 2rem;
     text-transform:uppercase;
     transition: all .3s ease;
-
 }
 header nav .left a:hover{
     color :var(--primary);
 }
-
 header nav {
     padding: 2rem 0 ;
 }
 header nav .branding{
     margin-right: 3rem;
-
 } 
 /* section  hero ///////////////////////////// */
 .hero{
@@ -48,7 +45,6 @@ header nav .branding{
 }
 .hero .right{
     color: var(--pure);
-    /* padding: 4rem; */
 }
 .hero .right h6{
     font-size: 1.6rem;
@@ -234,7 +230,7 @@ section.competence{
     background: linear-gradient(to right, #3DCFD3, #fffcdc);
     clip-path: polygon(0 0, 100% 0, 100% 100%,70% 89%,0 100%);
 }
-/* add section Contact  /////////////////////////////////*/
+/* style section Contact  /////////////////////////////////*/
 section.contact input{
     padding:0.5rem;
     border:  1px solid var(--light);
@@ -298,6 +294,8 @@ section.contact .btn-wrapper{
     text-align: center;
 
 }
+/* add style footer */
+
 
 
 
