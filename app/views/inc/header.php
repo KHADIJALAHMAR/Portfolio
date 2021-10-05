@@ -15,7 +15,7 @@
 
     <header>
         <div class="container">
-            <nav class="flex items-center justify-between ">
+            <nav  id ="main-nav"class="flex items-center justify-between ">
                 <div class="left flex items-center ">
                     <div class="branding">
                         <img src="" alt="logo">
