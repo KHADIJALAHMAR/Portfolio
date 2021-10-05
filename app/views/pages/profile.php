@@ -120,7 +120,8 @@
             <h1>Visit Office </h1>
             <h6> Youssoufia QU Salam Rue Moulay ibrahim</h6>
         </div>
-        <form action="">
+    </div>
+        <form  action="">
         <div class="input-wrap">
             <input type="text" placeholder="Your Name *">
             <input type="email" placeholder="Your email *">
@@ -130,10 +131,8 @@
             <textarea name="" id="" cols="30" rows="10" placeholder="Your messag"></textarea>
 
         </div>
-        <div>
-            <button class="btn btn-primary"></button>
-        </div>
-    </div>
+        <div class="btn-wrapper">
+            <button class="btn btn-primary">SEND MESSAGE</button>
         </form>
 </section>
 </div>
