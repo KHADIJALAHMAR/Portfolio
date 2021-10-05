@@ -129,7 +129,6 @@
         <div class="input-wrap2">
             <input type="text" placeholder="Your subject .....">
             <textarea name="" id="" cols="30" rows="10" placeholder="Your messag"></textarea>
-
         </div>
         <div class="btn-wrapper">
             <button class="btn btn-primary">SEND MESSAGE</button>
